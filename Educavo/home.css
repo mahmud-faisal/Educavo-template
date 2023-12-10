@@ -846,7 +846,7 @@ section#news-events {
     justify-content: space-around;
     width: 90%;
     align-items: center;
-    top: -60px;
+    top: -100px;
     left: 0%;
 }
 .subscribe-head h2{
@@ -934,3 +934,7 @@ section#news-events {
     margin-left:30px
 }
 
+.social i {
+    margin-left: 10px;
+    font-size: x-large;
+}
